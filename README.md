@@ -1,3 +1,5 @@
+should integrate kubernetes python driver replacing most of what's here:  
+https://github.com/kubernetes-client/python/blob/master/examples/deployment_crud.py  
 
 add ip address
 check for machine at address
